@@ -1,6 +1,6 @@
-Aaron Angeles__
-Rayline Cruz__
-Krizle Privado__
+Aaron Angeles <br/>
+Rayline Cruz <br/>
+Krizle Privado <br/>
 Barrete Shane
 
 https://miemoo.github.io/glitzy-app/
